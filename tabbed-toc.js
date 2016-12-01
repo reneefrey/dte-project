@@ -8,7 +8,7 @@
 
     var hash = (new Date()).getTime(),
         defaults = {
-        blogUrl: "http://www.witch.today", // Blog URL
+        blogUrl: "http://dte-feed.blogspot.com/", // Blog URL
         containerId: "tabbed-toc", // Container ID
         activeTab: 1, // The default active tab index (default: the first tab)
         showDates: false, // true to show the post date
